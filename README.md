@@ -1,2 +1,3 @@
 # JavaLanguageClass
-My Java language class.
+
+This is my very first change.
